@@ -8,27 +8,40 @@
 
 # Hi, I'm HANK 👋
 
-**Engineering lead** at a small software company, **AI tinkerer** on the side.
+**Online handle: 五花肉** (literally *pork belly* — yes, really, ask anyone in the AI Discord groups I lurk in)
+
+Engineering lead by day, AI tinkerer by night, weekend footballer somewhere in between.
 
 📍 **Chengdu, China** · happy to travel
 
-I write code for a living. I write about code for fun. The two occasionally overlap.
+---
+
+## I'm not just a code machine
+
+Code is my day job, but it's not all of me.
+
+- ⚽ **Football** — played most of my life, certified coach, still on the pitch on weekends
+- 🍜 **Food** — I will stop for any decent bowl of noodles. Chengdu has strong opinions about this. So do I
+- 🏔️ **Travel** — anywhere with a mountain and reasonable coffee
+- 💬 **I lurk in way too many AI groups** — Discord, WeChat, X, wherever. Under 五花肉. If you've seen me lurking, no you didn't
+
+If you want to talk about code, great. If you want to talk about football, food, or where to find a good bowl of noodles in Chengdu — also great.
+
+> Career in one sentence: liberal-arts grad → marketer → programmer → still plays football on weekends. No regrets.
 
 ---
 
-## The short version
+## The short work version
 
-I've been shipping code for more years than I'd like to count. Started in Java backends, drifted into full-stack, currently leading a small team that does **computer-vision + hardware** work. Along the way I got to work with good people at **GE**, **China Telecom**, **Full Truck Alliance** and a handful of others — full history is on [aichi.food](https://aichi.food), the long version of me.
-
-I'm not an AI researcher, but I've been using AI tools seriously since 2022. I build small things with them. Some turn into products, most don't. Either way, the building is the point.
-
-> Career in one sentence: started as a liberal-arts grad, somehow ended up here, no regrets.
+- Engineering lead at a small software company — currently shipping **computer-vision + hardware**
+- Previously worked with teams at **GE**, **China Telecom**, **Full Truck Alliance** — full history on [aichi.food](https://aichi.food)
+- I'm not an AI researcher, just an "**AI tourist**" — been using AI tools seriously since 2022, build small things with them, most don't ship. The building is the point
 
 ---
 
-## Side projects
+## Things I shipped that you might find useful
 
-Most of these are weekend things. They're how I learn, not how I make money. Some get used by other people, some only by me. All are MIT-licensed, do whatever you want with them.
+Most of these are weekend / side-project things. Some get used by other people, some only by me. All are MIT-licensed — do whatever you want with them.
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -43,9 +56,10 @@ Most of these are weekend things. They're how I learn, not how I make money. Som
 
 ## Other things I do
 
-- Run 「**算力白肉**」 — a WeChat column about AI tools and agents, written from the engineer's bench
-- Co-organize **Hello Hackathon** — a Chengdu-based AI / hackathon community
-- Occasionally post on X: [@HANK_G_](https://twitter.com/HANK_G_)
+- 「**算力白肉**」 — a WeChat column about AI tools and agents, written from the engineer's bench
+- **Hello Hackathon** — co-organizer, a Chengdu-based AI / hackathon community
+- **Occasionally post on X**: [@HANK_G_](https://twitter.com/HANK_G_)
+- **Hang out in AI groups** under 五花肉 — say hi if you see me
 
 If any of this is useful to you, that's already more than I hoped for.
 
@@ -56,7 +70,7 @@ If any of this is useful to you, that's already more than I hoped for.
 - **Personal site (the long version)**: [aichi.food](https://aichi.food)
 - **Project inquiries**: [rayda-tech.com](https://www.rayda-tech.com)
 - **GitHub Issues**: on the relevant repo, please
-- **DMs**: open
+- **DMs**: open (unless you're a recruiter pitching me a "fast-paced, dynamic, rockstar" role)
 
 ---
 
