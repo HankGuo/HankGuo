@@ -1,54 +1,56 @@
+<div align="right">
+
+🇨🇳 [中文版](./README.zh-CN.md) · 🇬🇧 English (default)
+
+</div>
+
+---
+
 # Hi, I'm HANK 👋
 
-**15 年一线产研工程师** · 软件公司产研负责人 · 公众号「算力白肉」主理人
+**15-year product engineer** · Head of Engineering · AI Agent practitioner
 
-[![Website](https://img.shields.io/badge/Website-aichi.food-orange)](https://aichi.food)
-[![B2B](https://img.shields.io/badge/%E6%8E%A5%E6%B4%A5%E6%B8%A0%E9%81%93-rayda--tech.com-blue)](https://www.rayda-tech.com)
-[![WeChat](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%AE%97%E5%8A%9B%E7%99%BD%E8%82%89-brightgreen)](https://mp.weixin.qq.com/s/DZIaSGb60VXe2NdTmChWiQ)
-
-📍 常驻成都（新津）· 参与各地线下技术活动
+📍 **Chengdu, China** · Available for technical events worldwide
 
 ---
 
-## 在做的事
+## About
 
-**软件公司产研** 为主业，**公众号 + 工具产品开发** 为长期副业。
+**15-year hands-on product engineer and Head of Engineering** at a software company. I lead a team that ships production systems end-to-end — from architecture to ops.
 
-主业方向：
-- **视觉软硬件方案**：对接摄像头厂家的端到端方案
-- **公共服务 / 电商核心链路**：主数据、订单、客服、支付
-- **小程序 / 工具产品 / 效率工具** 交付
+I write code across the stack. I also write about what I learn.
 
-AI 时代在做的事：
-- **AI Agent 落地**——把 Agent 接到真实业务里，不是 PPT
-- **AI Native 工具**——围绕"个体怎么用 AI 放大自己"做产品
-- **线下技术社区**——Hello Hackathon 联创人，成都 AI 社群组织
+- **Day job**: Head of Engineering at a software company. Domain expertise in **computer-vision & hardware** (camera SDK integration, face-recognition systems), **public-sector platforms** (master-data, e-government), and **e-commerce core flows** (order / customer-service / payment).
+- **Side quests**: Open-source tools, AI products, technical writing, community building. Co-founder of **Hello Hackathon** (a Chengdu-based AI / hackathon community).
+- **Long-running side project**: I run the WeChat column **「算力白肉 / Suanli Bairou」** — practical notes on AI tools and agents, written from the engineer's bench, not the marketing department.
 
-工程栈：Java · Spring Boot · React · TypeScript · 小程序 · Electron · Go · Cloudflare 全家桶
+I started as a liberal-arts graduate, pivoted through marketing into software. Worked my way up from Java backends to full-stack to AI application work. Currently most excited about **AI Agents in real production systems** — not the slideware, the actual `kubectl get pods` version.
 
 ---
 
-## 主线项目
+## Selected Projects
 
-| 项目 | 简介 | 技术栈 |
+| Project | What it is | Stack |
 |---|---|---|
-| 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI 视频创作工作流（多模型接入、桌面端） | Electron · Node |
-| 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | 轻量 Agent 注册与派单中心 | Go |
-| 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | 实时协作与分享工具 | TypeScript · React · Express · Socket.IO |
-| 🌐 [**webppt**](https://github.com/HankGuo/webppt) | 单仓库多主题 HTML 演示聚合站 | HTML · GitHub Pages |
-| 📝 [**yizhi-chengwen**](https://github.com/HankGuo/yizhi-chengwen) | AI 公文生成工具（商业软件） | JavaScript |
-| 🏢 [**ai-weapon**](https://github.com/HankGuo/ai-weapon) | AGI 实战经验沉淀 | HTML |
+| 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI video creation workspace, desktop app, multi-model | Electron · Node |
+| 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | Lightweight Agent registry + dispatch + heartbeat monitor | Go |
+| 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | Real-time collaboration & presentation tool | TypeScript · React · Express · Socket.IO |
+| 🌐 [**webppt**](https://github.com/HankGuo/webppt) | Single-repo multi-theme HTML presentation hub | HTML · GitHub Pages |
+| 📝 [**yizhi-chengwen**](https://github.com/HankGuo/yizhi-chengwen) | AI-generated Chinese government documents (commercial) | JavaScript |
+| 🏢 [**ai-weapon**](https://github.com/HankGuo/ai-weapon) | Hands-on AGI experience, written in plain language | HTML |
+
+Each project README has a "Hank's AI Tool Matrix" card linking them — start anywhere.
 
 ---
 
-## 联系我
+## Working with me
 
-- 个人主页：[aichi.food](https://aichi.food)
-- 公众号「**算力白肉**」：搜索同名 ID——AI 工具与 Agent 实战笔记
-- 项目承接 / 商务合作：[rayda-tech.com](https://www.rayda-tech.com)
-- Twitter/X: [@HANK_G_](https://twitter.com/HANK_G_)
-- GitHub Issues：直接到对应 repo 提
+- **Personal site**: [aichi.food](https://aichi.food)
+- **WeChat column**: 「**算力白肉**」— search the ID, written in Chinese
+- **Project inquiries / commercial work**: [rayda-tech.com](https://www.rayda-tech.com)
+- **X / Twitter**: [@HANK_G_](https://twitter.com/HANK_G_)
+- **GitHub Issues**: on the relevant repo
 
 ---
 
-<sub>📌 这是我 GitHub 个人主页。所有原创项目在 `HankGuo/` 名下，fork 的学习/参考仓库在 [`hank-fork-4study`](https://github.com/hank-fork-4study) Org。</sub>
+<sub>📌 Personal projects live under `HankGuo/`. Forks I read for reference live in the [`hank-fork-4study`](https://github.com/hank-fork-4study) org.</sub>
