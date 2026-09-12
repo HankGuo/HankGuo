@@ -8,7 +8,7 @@
 
 # 你好，我是 HANK 👋
 
-**网名：五花肉**（对，猪肉的五花肉——AI 群里问我我都不解释第二遍）
+**网名：五花肉** —— 就一网名，AI 群里都这么叫
 
 白天写代码，晚上折腾 AI，周末去踢个球。
 
@@ -70,7 +70,7 @@
 - **个人主页（加长版）**：[aichi.food](https://aichi.food)
 - **项目承接**：[rayda-tech.com](https://www.rayda-tech.com)
 - **GitHub Issues**：到对应 repo 提
-- **私信**：开放（除非你是来"招个 rockstar"的招聘者）
+- **私信**：开放（招聘者欢迎，但请先看看这个 profile）
 
 ---
 

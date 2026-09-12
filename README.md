@@ -8,7 +8,7 @@
 
 # Hi, I'm HANK 👋
 
-**Online handle: 五花肉** (literally *pork belly* — yes, really, ask anyone in the AI Discord groups I lurk in)
+**Online handle: 五花肉** — that's just my online name. Ask around if you're curious
 
 Engineering lead by day, AI tinkerer by night, weekend footballer somewhere in between.
 
@@ -70,7 +70,7 @@ If any of this is useful to you, that's already more than I hoped for.
 - **Personal site (the long version)**: [aichi.food](https://aichi.food)
 - **Project inquiries**: [rayda-tech.com](https://www.rayda-tech.com)
 - **GitHub Issues**: on the relevant repo, please
-- **DMs**: open (unless you're a recruiter pitching me a "fast-paced, dynamic, rockstar" role)
+- **DMs**: open (recruiters welcome, but read the room)
 
 ---
 
