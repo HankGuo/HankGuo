@@ -8,48 +8,55 @@
 
 # 你好，我是 HANK 👋
 
-**15 年一线产研工程师** · 软件公司产研负责人 · AI Agent 实践者
+软件公司产研负责人，**业余 AI 折腾者**。
 
-📍 **中国·成都** · 欢迎线下技术活动邀请
+📍 **中国·成都** · 欢迎线下技术活动邀约
 
----
-
-## 关于我
-
-**15 年一线产研工程师，软件公司产研负责人**。带团队从架构到运维端到端交付生产级系统。
-
-会写代码，也会写东西。
-
-- **主业**：软件公司产研负责人。深耕**视觉软硬件方案**（摄像头 SDK 接入、人脸识别系统）、**公共服务平台**（主数据、政务）、**电商核心链路**（订单 / 客服 / 支付）。
-- **副业**：开源工具、AI 产品、技术写作、社区运营。**Hello Hackathon 联创人**（成都 AI 黑客松社群）。
-- **长期副业**：公众号「**算力白肉**」—— AI 工具与 Agent 实战笔记，从工程师视角写，不是市场部稿。
-
-我文科出身，转过市场，最后落到软件。从 Java 后端一路做到全栈、做到 AI 应用层。现在最感兴趣的是 **AI Agent 在真实生产系统的落地**——不是 PPT 版本，是 `kubectl get pods` 那个版本。
+写代码是工作，写代码的事也写出来——两边偶尔重叠一下。
 
 ---
 
-## 精选项目
+## 简短版
+
+写代码这事我干了好多年了（具体几年不重要，反正我头发还在）。从 Java 后端写到全栈，现在带一个小团队做**视觉软硬件**方向。中间有幸在 **GE**、**中国电信**、**满帮集团** 这些团队里跟人合作过——完整经历在 [aichi.food](https://aichi.food)，那是我的"加长版"。
+
+我不是 AI 研究员，但 2022 年开始认真用 AI 工具，也写点东西。**做点小项目、有时候长成产品、大部分时候没有**。过程本身就是目的。
+
+> 职业一句话总结：文科出身，不知怎么就到这了，不后悔。
+
+---
+
+## 副业项目
+
+大多是周末 / 晚上时间做的，**用来学习，不是用来赚钱的**。有些被人用，有些只有我用。都是 MIT，随便你怎么用。
 
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
-| 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI 视频创作工作台（桌面端、多模型接入） | Electron · Node |
-| 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | 轻量 Agent 注册 / 派单 / 心跳监控 | Go |
-| 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | 实时协作与分享工具 | TypeScript · React · Express · Socket.IO |
-| 🌐 [**webppt**](https://github.com/HankGuo/webppt) | 单仓库多主题 HTML 演示聚合站 | HTML · GitHub Pages |
+| 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI 视频创作工作台（桌面、多模型） | Electron · Node |
+| 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | 轻量 Agent 注册 / 派单 | Go |
+| 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | 实时协作与分享工具 | TypeScript · React · Socket.IO |
+| 🌐 [**webppt**](https://github.com/HankGuo/webppt) | 单仓库多主题 HTML 演示站 | HTML |
 | 📝 [**yizhi-chengwen**](https://github.com/HankGuo/yizhi-chengwen) | AI 公文生成（商业软件） | JavaScript |
 | 🏢 [**ai-weapon**](https://github.com/HankGuo/ai-weapon) | AGI 实战经验沉淀 | HTML |
 
-每个项目的 README 末尾都有"🧩 Hank 的 AI 工具矩阵"卡片互相引用——从哪个进都行。
+---
+
+## 还在干的事
+
+- 公众号「**算力白肉**」—— AI 工具与 Agent 实战笔记
+- **Hello Hackathon 联创人**——成都 AI / 黑客松社群
+- 偶尔发推：[@HANK_G_](https://twitter.com/HANK_G_)
+
+里面任何一个对你有点用，我就很满足了。
 
 ---
 
 ## 联系方式
 
-- **个人主页**：[aichi.food](https://aichi.food)
-- **公众号「算力白肉」**：搜索同名 ID（中文内容）
-- **项目承接 / 商务合作**：[rayda-tech.com](https://www.rayda-tech.com)
-- **X / Twitter** : [@HANK_G_](https://twitter.com/HANK_G_)
-- **GitHub Issues**：直接到对应 repo 提
+- **个人主页（加长版）**：[aichi.food](https://aichi.food)
+- **项目承接**：[rayda-tech.com](https://www.rayda-tech.com)
+- **GitHub Issues**：到对应 repo 提，最好带上下文
+- **私信**：开放
 
 ---
 
