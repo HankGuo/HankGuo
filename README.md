@@ -47,8 +47,11 @@ Most of these are weekend / side-project things. Some get used by other people, 
 |---|---|---|
 | 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI video creation workspace (desktop, multi-model) | Electron · Node |
 | 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | Lightweight Agent registry + dispatch | Go |
+| 🎮 [**agent-battle**](https://github.com/HankGuo/agent-battle) | Multi-Agent combat arena — agents argue, vote, winner crowned | Go · SQLite · SSE · Vue |
+| 🎪 [**cyber-temple**](https://github.com/HankGuo/cyber-temple) | Cyber temple fair — every stall is a real-person Agent (for offline AI events) | Go |
 | 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | Real-time collaboration & presentation tool | TypeScript · React · Socket.IO |
 | 🌐 [**webppt**](https://github.com/HankGuo/webppt) | Multi-theme HTML presentation hub on GitHub Pages | HTML |
+| 🧰 [**free-toolbox**](https://github.com/HankGuo/free-toolbox) | Curated free-tier AI tools (China-accessible, verified) | Claude plugin · HTML |
 | 📝 [**yizhi-chengwen**](https://github.com/HankGuo/yizhi-chengwen) | AI-generated Chinese government documents (commercial) | JavaScript |
 | 🏢 [**ai-weapon**](https://github.com/HankGuo/ai-weapon) | Hands-on AGI experience, written plainly | HTML |
 

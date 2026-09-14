@@ -47,8 +47,11 @@
 |---|---|---|
 | 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI 视频创作工作台（桌面、多模型） | Electron · Node |
 | 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | 轻量 Agent 注册 / 派单 | Go |
+| 🎮 [**agent-battle**](https://github.com/HankGuo/agent-battle) | 多 Agent 对战竞技场——互怼、投票、决出冠军 | Go · SQLite · SSE · Vue |
+| 🎪 [**cyber-temple**](https://github.com/HankGuo/cyber-temple) | 赛博庙会——每个摊位后都是真人 Agent（线下 AI 活动用） | Go |
 | 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | 实时协作与分享工具 | TypeScript · React · Socket.IO |
 | 🌐 [**webppt**](https://github.com/HankGuo/webppt) | 单仓库多主题 HTML 演示站 | HTML |
+| 🧰 [**free-toolbox**](https://github.com/HankGuo/free-toolbox) | 精选免费 AI 工具（已核验国内可达） | Claude plugin · HTML |
 | 📝 [**yizhi-chengwen**](https://github.com/HankGuo/yizhi-chengwen) | AI 公文生成（商业软件） | JavaScript |
 | 🏢 [**ai-weapon**](https://github.com/HankGuo/ai-weapon) | AGI 实战经验沉淀 | HTML |
 
