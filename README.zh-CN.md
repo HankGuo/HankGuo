@@ -1,80 +1,60 @@
-<div align="right">
+<div align="center">
 
-🇨🇳 中文（当前） · 🇬🇧 [English](./README.md)
+# HANK · 五花肉
+
+**把 AI 能力做成能跑、能用、能交付的东西** —— agent、工具链，以及从 demo 到交付的最后一公里。
+
+📍 成都 · 白天带工程团队，晚上写 AI 工具
+
+[个人网站](https://aichi.food) · [X](https://twitter.com/HANK_G_) · [工作室](https://www.rayda-tech.com) · [English](./README.md)
 
 </div>
 
 ---
 
-# 你好，我是 HANK 👋
+## 最近在做什么
 
-**网名：五花肉** —— 就一网名，AI 群里都这么叫
+不是 backlog，是进度报告。
 
-白天写代码，晚上折腾 AI，周末去踢个球。
-
-📍 **中国·成都** · 欢迎线下技术活动邀约
-
----
-
-## 不只是个写代码的
-
-代码是工作，但不是我全部。
-
-- ⚽ **足球** —— 踢了大半辈子，**持证教练**，周末还在场上
-- 🍜 **美食** —— 看到任何还过得去的一碗面我都会停下来。成都在这件事上很有意见，我也有
-- 🏔️ **旅游** —— 有山有咖啡的地方就行
-- 💬 **重度水群** —— Discord、微信、X，哪儿都水。网名五花肉。如果你在群里看到我，请当作没看到
-
-聊代码可以，聊足球、聊成都哪家面馆子最野，**也可以**。
-
-> 职业一句话：文科生 → 市场 → 程序员 → 现在周末还踢球。不后悔。
-
----
-
-## 工作简短版
-
-- 软件公司产研负责人 —— 现在做**视觉软硬件**方向
-- 之前在 **GE**、**中国电信**、**满帮集团** 这些团队里合作过 —— 完整版在 [aichi.food](https://aichi.food)
-- 我不是 AI 研究员，就是个"**AI 游客**"——2022 年开始认真用 AI 工具，做点东西，大部分没成产品。过程本身是目的
-
----
-
-## 写过的一些东西，你可能用得上
-
-大多是周末/晚上的项目，有些被人用，有些只有我用。都是 MIT 协议，随便用。
-
-| 项目 | 简介 | 技术栈 |
+| 项目 | 做什么 | 技术 |
 |---|---|---|
-| 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI 视频创作工作台（桌面、多模型） | Electron · Node |
-| 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | 轻量 Agent 注册 / 派单 | Go |
-| 🎮 [**agent-battle**](https://github.com/HankGuo/agent-battle) | 多 Agent 对战竞技场——互怼、投票、决出冠军 | Go · SQLite · SSE · Vue |
-| 🎪 [**cyber-temple**](https://github.com/HankGuo/cyber-temple) | 赛博庙会——每个摊位后都是真人 Agent（线下 AI 活动用） | Go |
-| 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | 实时协作与分享工具 | TypeScript · React · Socket.IO |
-| 🌐 [**webppt**](https://github.com/HankGuo/webppt) | 单仓库多主题 HTML 演示站 | HTML |
-| 🧰 [**free-toolbox**](https://github.com/HankGuo/free-toolbox) | 精选免费 AI 工具（已核验国内可达） | Claude plugin · HTML |
-| 📝 [**yizhi-chengwen**](https://github.com/HankGuo/yizhi-chengwen) | AI 公文生成（商业软件） | JavaScript |
-| 🏢 [**ai-weapon**](https://github.com/HankGuo/ai-weapon) | AGI 实战经验沉淀 | HTML |
+| **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | 把任何跑着 CLI Agent 的机器，变成一个浏览器可访问的个人工作台 —— 不用先接飞书/钉钉/微信机器人 | Node · Web |
+| **[agent-deck](https://github.com/HankGuo/agent-deck)** | 零依赖的多 Agent 本地调度台：ACP over stdio、stream JSON，一个控制台管多个 CLI 助手 | Node · ACP |
+| **[berich](https://github.com/HankGuo/berich)** | 独立淘金地图：AI 时代一个人能做的赚钱路子，只收真正在出钱的 | HTML |
+
+## 代表作
+
+| 项目 | 是什么 | 技术 |
+|---|---|---|
+| **[video-studio](https://github.com/HankGuo/video-studio)** | AI 视频创作工作台，多模型，桌面端 | Electron · Node |
+| **[agent-matrix](https://github.com/HankGuo/agent-matrix)** | Agent 注册与心跳监控，一条命令自助接入 | Go |
+| **[agent-battle](https://github.com/HankGuo/agent-battle)** | 多 Agent 辩论竞技场，互怼→投票→决出赢家 | Go · SQLite · SSE · Vue |
+| **[cyber-temple](https://github.com/HankGuo/cyber-temple)** | 赛博庙会：线下 AI 活动用，每个摊位后面是一个真人 Agent | Go |
+| **[open-meetup](https://github.com/HankGuo/open-meetup)** | 实时协作与演示工具 | TypeScript · React · Socket.IO |
+| **[yizhi-chengwen](https://github.com/HankGuo/yizhi-chengwen)** | AI 拟稿 + GB/T 9704 国标排版，10 秒出标准公文，免安装 | JavaScript |
+| **[free-toolbox](https://github.com/HankGuo/free-toolbox)** | 免费 AI 工具封装成 12 个拿来即用的场景闭环（国内可达性已核验） | HTML |
+| **[webppt](https://github.com/HankGuo/webppt)** | 多主题 HTML 演示聚合站，GitHub Pages 托管 | HTML |
+
+## 我怎么做事
+
+- **端到端**：需求进来，能跑的系统出去 —— 产品、后端、前端、部署一条龙。
+- **Agent 基础设施**：编排、协议（ACP / MCP / iLink）、以及让 Agent 出现在用户已经在的地方的远程入口。
+- **交付优先**：先做能解决真问题的最小东西，然后只改客户抱怨的部分。不是反过来。
+
+背景：某软件公司工程负责人，在做计算机视觉 + 硬件。此前与 **GE**、**中国电信**、**满帮** 的团队合作过。
+
+## 工作之外
+
+足球 —— 踢了小半辈子，持证教练，周末还在场上。成都的面。有山有咖啡的地方。
+
+## 联系
+
+- **个人网站（长版本）**：[aichi.food](https://aichi.food)
+- **工作室 / 项目合作**：[rayda-tech.com](https://www.rayda-tech.com)
+- **公众号**：「算力白肉」 —— 从工程师工作台写 AI 工具与 Agent
+- **X**：[@HANK_G_](https://twitter.com/HANK_G_)
+- **开源**：相关仓库提 issue。私信开放。
 
 ---
 
-## 还在干的事
-
-- 公众号「**算力白肉**」—— AI 工具与 Agent 实战笔记
-- **Hello Hackathon 联创人**——成都 AI / 黑客松社群
-- 偶尔发推：[@HANK_G_](https://twitter.com/HANK_G_)
-- 在各种 AI 群里潜水，**网名五花肉**，看到了就当没看到
-
-里面任何一件对你有用，我就很满足了。
-
----
-
-## 联系方式
-
-- **个人主页（加长版）**：[aichi.food](https://aichi.food)
-- **项目承接**：[rayda-tech.com](https://www.rayda-tech.com)
-- **GitHub Issues**：到对应 repo 提
-- **私信**：开放（招聘者欢迎，但请先看看这个 profile）
-
----
-
-<sub>📌 原创项目在 `HankGuo/` 名下，fork 的学习/参考仓库在 [`hank-fork-4study`](https://github.com/hank-fork-4study) Org。</sub>
+<sub>常用马甲：五花肉。个人项目在 `HankGuo/`；参考用的 fork 放在 [hank-fork-4study](https://github.com/hank-fork-4study)。</sub>
