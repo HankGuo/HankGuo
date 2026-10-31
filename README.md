@@ -1,80 +1,60 @@
-<div align="right">
+<div align="center">
 
-🇨🇳 [中文版](./README.zh-CN.md) · 🇬🇧 English (default)
+# HANK · 五花肉
+
+**I build practical AI systems that ship — agents, tooling, and the last mile from demo to deliverable.**
+
+📍 Chengdu, China · Engineering lead by day, AI builder by night
+
+[Website](https://aichi.food) · [X](https://twitter.com/HANK_G_) · [Studio](https://www.rayda-tech.com) · [中文](./README.zh-CN.md)
 
 </div>
 
 ---
 
-# Hi, I'm HANK 👋
+## Now
 
-**Online handle: 五花肉** — that's just my online name. Ask around if you're curious
+Things I'm actually building this quarter — not a backlog, a status report.
 
-Engineering lead by day, AI tinkerer by night, weekend footballer somewhere in between.
+| Project | What it does | Stack |
+|---|---|---|
+| **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | Turns any machine running your CLI agents into a personal web workspace — no need to wire up Feishu / Slack / WeChat bots first | Node · Web |
+| **[agent-deck](https://github.com/HankGuo/agent-deck)** | Zero-dependency multi-agent orchestration desk: ACP over stdio, stream-JSON, one console for many CLI agents | Node · ACP |
+| **[berich](https://github.com/HankGuo/berich)** | A map of solo-friendly money paths in the AI era — only the ones with people actually making money | HTML |
 
-📍 **Chengdu, China** · happy to travel
-
----
-
-## I'm not just a code machine
-
-Code is my day job, but it's not all of me.
-
-- ⚽ **Football** — played most of my life, certified coach, still on the pitch on weekends
-- 🍜 **Food** — I will stop for any decent bowl of noodles. Chengdu has strong opinions about this. So do I
-- 🏔️ **Travel** — anywhere with a mountain and reasonable coffee
-- 💬 **I lurk in way too many AI groups** — Discord, WeChat, X, wherever. Under 五花肉. If you've seen me lurking, no you didn't
-
-If you want to talk about code, great. If you want to talk about football, food, or where to find a good bowl of noodles in Chengdu — also great.
-
-> Career in one sentence: liberal-arts grad → marketer → programmer → still plays football on weekends. No regrets.
-
----
-
-## The short work version
-
-- Engineering lead at a small software company — currently shipping **computer-vision + hardware**
-- Previously worked with teams at **GE**, **China Telecom**, **Full Truck Alliance** — full history on [aichi.food](https://aichi.food)
-- I'm not an AI researcher, just an "**AI tourist**" — been using AI tools seriously since 2022, build small things with them, most don't ship. The building is the point
-
----
-
-## Things I shipped that you might find useful
-
-Most of these are weekend / side-project things. Some get used by other people, some only by me. All are MIT-licensed — do whatever you want with them.
+## Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🎬 [**video-studio**](https://github.com/HankGuo/video-studio) | AI video creation workspace (desktop, multi-model) | Electron · Node |
-| 🧠 [**agent-matrix**](https://github.com/HankGuo/agent-matrix) | Lightweight Agent registry + dispatch | Go |
-| 🎮 [**agent-battle**](https://github.com/HankGuo/agent-battle) | Multi-Agent combat arena — agents argue, vote, winner crowned | Go · SQLite · SSE · Vue |
-| 🎪 [**cyber-temple**](https://github.com/HankGuo/cyber-temple) | Cyber temple fair — every stall is a real-person Agent (for offline AI events) | Go |
-| 🤝 [**open-meetup**](https://github.com/HankGuo/open-meetup) | Real-time collaboration & presentation tool | TypeScript · React · Socket.IO |
-| 🌐 [**webppt**](https://github.com/HankGuo/webppt) | Multi-theme HTML presentation hub on GitHub Pages | HTML |
-| 🧰 [**free-toolbox**](https://github.com/HankGuo/free-toolbox) | Curated free-tier AI tools (China-accessible, verified) | Claude plugin · HTML |
-| 📝 [**yizhi-chengwen**](https://github.com/HankGuo/yizhi-chengwen) | AI-generated Chinese government documents (commercial) | JavaScript |
-| 🏢 [**ai-weapon**](https://github.com/HankGuo/ai-weapon) | Hands-on AGI experience, written plainly | HTML |
+| **[video-studio](https://github.com/HankGuo/video-studio)** | AI video creation workspace, multi-model, desktop | Electron · Node |
+| **[agent-matrix](https://github.com/HankGuo/agent-matrix)** | Agent registry + heartbeat monitor; agents self-register with one command | Go |
+| **[agent-battle](https://github.com/HankGuo/agent-battle)** | Multi-agent arena — agents argue, vote, and a winner gets crowned | Go · SQLite · SSE · Vue |
+| **[cyber-temple](https://github.com/HankGuo/cyber-temple)** | Cyber temple fair for offline AI events; every stall is a real-person agent | Go |
+| **[open-meetup](https://github.com/HankGuo/open-meetup)** | Real-time collaboration & presentation tool | TypeScript · React · Socket.IO |
+| **[yizhi-chengwen](https://github.com/HankGuo/yizhi-chengwen)** | AI drafting + GB/T 9704 compliant Chinese official documents, 10s per doc, no install | JavaScript |
+| **[free-toolbox](https://github.com/HankGuo/free-toolbox)** | Free-tier AI tooling packaged into 12 usable workflows (China-accessible, verified) | HTML |
+| **[webppt](https://github.com/HankGuo/webppt)** | Multi-theme HTML presentation hub, served from GitHub Pages | HTML |
+
+## How I work
+
+- **End to end.** Vague requirement in, running system out — product, backend, frontend, deployment.
+- **Agent infrastructure.** Orchestration, protocols (ACP / MCP / iLink), and remote entry points that make an agent reachable from where people already are.
+- **Delivery bias.** Ship the smallest thing that solves the real problem, then improve what customers complain about. Not the other way around.
+
+Background: engineering lead at a software company working on computer vision + hardware. Previously built with teams at **GE**, **China Telecom**, and **Full Truck Alliance**.
+
+## Off screen
+
+Football — played most of my life, certified coach, still on the pitch on weekends. Noodles in Chengdu. Mountains with decent coffee.
+
+## Contact
+
+- **Website (the long version)**: [aichi.food](https://aichi.food)
+- **Studio / project inquiries**: [rayda-tech.com](https://www.rayda-tech.com)
+- **WeChat column**: 「算力白肉」 — AI tools and agents, written from the engineer's bench
+- **X**: [@HANK_G_](https://twitter.com/HANK_G_)
+- **Open source**: issues on the relevant repo, please. DMs open.
 
 ---
 
-## Other things I do
-
-- 「**算力白肉**」 — a WeChat column about AI tools and agents, written from the engineer's bench
-- **Hello Hackathon** — co-organizer, a Chengdu-based AI / hackathon community
-- **Occasionally post on X**: [@HANK_G_](https://twitter.com/HANK_G_)
-- **Hang out in AI groups** under 五花肉 — say hi if you see me
-
-If any of this is useful to you, that's already more than I hoped for.
-
----
-
-## Get in touch
-
-- **Personal site (the long version)**: [aichi.food](https://aichi.food)
-- **Project inquiries**: [rayda-tech.com](https://www.rayda-tech.com)
-- **GitHub Issues**: on the relevant repo, please
-- **DMs**: open (recruiters welcome, but read the room)
-
----
-
-<sub>📌 Personal projects live under `HankGuo/`. Forks I read for reference live in the [`hank-fork-4study`](https://github.com/hank-fork-4study) org.</sub>
+<sub>Handle online: 五花肉. Personal projects live under `HankGuo/`; forks I read for reference live in [hank-fork-4study](https://github.com/hank-fork-4study).</sub>
