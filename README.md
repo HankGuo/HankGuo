@@ -18,6 +18,7 @@ Things I'm actually building this quarter — not a backlog, a status report.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[dushe-2bti](https://github.com/HankGuo/dushe-2bti)** | Savage 16-type personality diagnostic & offline visual poster generator for AI power users — 4 visual families, zero deps | Python · HTML/SVG |
 | **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | Turns any machine running your CLI agents into a personal web workspace — no need to wire up Feishu / Slack / WeChat bots first | Node · Web |
 | **[agent-deck](https://github.com/HankGuo/agent-deck)** | Zero-dependency multi-agent orchestration desk: ACP over stdio, stream-JSON, one console for many CLI agents | Node · ACP |
 | **[berich](https://github.com/HankGuo/berich)** | A map of solo-friendly money paths in the AI era — only the ones with people actually making money | HTML |

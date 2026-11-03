@@ -18,6 +18,7 @@
 
 | 项目 | 做什么 | 技术 |
 |---|---|---|
+| **[dushe-2bti](https://github.com/HankGuo/dushe-2bti)** | 毒舌 2BTI：AI 深度患者专属 16 型人格毒舌诊断与长图生成器 —— 四大视觉家族，零外部依赖 | Python · HTML/SVG |
 | **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | 把任何跑着 CLI Agent 的机器，变成一个浏览器可访问的个人工作台 —— 不用先接飞书/钉钉/微信机器人 | Node · Web |
 | **[agent-deck](https://github.com/HankGuo/agent-deck)** | 零依赖的多 Agent 本地调度台：ACP over stdio、stream JSON，一个控制台管多个 CLI 助手 | Node · ACP |
 | **[berich](https://github.com/HankGuo/berich)** | 独立淘金地图：AI 时代一个人能做的赚钱路子，只收真正在出钱的 | HTML |
