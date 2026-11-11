@@ -6,7 +6,7 @@
 
 📍 Chengdu, China · Engineering lead by day, AI builder by night
 
-[Website](https://aichi.food) · [X](https://twitter.com/HANK_G_) · [Studio](https://www.rayda-tech.com) · [中文](./README.zh-CN.md)
+[Website](https://aichi.food) · [WorkBuddy Agents (46)](https://aichi.food/lab/#prod) · [llms.txt](https://aichi.food/llms.txt) · [X](https://twitter.com/HANK_G_) · [中文](./README.zh-CN.md)
 
 </div>
 
@@ -18,6 +18,7 @@ Things I'm actually building this quarter — not a backlog, a status report.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[WorkBuddy Agent Matrix](https://aichi.food/lab/#prod)** | 46 official reviewed commercial agents on Tencent WorkBuddy (26 Experts + 20 Skills) across legal, finance, gov-doc, cross-border & dev | Agents · Skills · MCP |
 | **[dushe-2bti](https://github.com/HankGuo/dushe-2bti)** | Savage 16-type personality diagnostic & offline visual poster generator for AI power users — 4 visual families, zero deps | Python · HTML/SVG |
 | **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | Turns any machine running your CLI agents into a personal web workspace — no need to wire up Feishu / Slack / WeChat bots first | Node · Web |
 | **[agent-deck](https://github.com/HankGuo/agent-deck)** | Zero-dependency multi-agent orchestration desk: ACP over stdio, stream-JSON, one console for many CLI agents | Node · ACP |
@@ -50,8 +51,8 @@ Football — played most of my life, certified coach, still on the pitch on week
 
 ## Contact
 
-- **Website (the long version)**: [aichi.food](https://aichi.food)
-- **Studio / project inquiries**: [rayda-tech.com](https://www.rayda-tech.com)
+- **Website (the long version)**: [aichi.food](https://aichi.food) · [WorkBuddy Agents (46)](https://aichi.food/lab/#prod)
+- **Machine-readable index (`llms.txt`)**: [aichi.food/llms.txt](https://aichi.food/llms.txt)
 - **WeChat column**: 「算力白肉」 — AI tools and agents, written from the engineer's bench
 - **X**: [@HANK_G_](https://twitter.com/HANK_G_)
 - **Open source**: issues on the relevant repo, please. DMs open.

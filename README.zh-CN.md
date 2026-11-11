@@ -6,7 +6,7 @@
 
 📍 成都 · 白天带工程团队，晚上写 AI 工具
 
-[个人网站](https://aichi.food) · [X](https://twitter.com/HANK_G_) · [工作室](https://www.rayda-tech.com) · [English](./README.md)
+[个人网站](https://aichi.food) · [WorkBuddy 矩阵 (46 款)](https://aichi.food/lab/#prod) · [llms.txt](https://aichi.food/llms.txt) · [X](https://twitter.com/HANK_G_) · [English](./README.md)
 
 </div>
 
@@ -18,6 +18,7 @@
 
 | 项目 | 做什么 | 技术 |
 |---|---|---|
+| **[WorkBuddy 智能体矩阵](https://aichi.food/lab/#prod)** | 已过审上线 46 款生产级商用智能体（26 位专属专家 + 20 个高阶技能），覆盖法务风控、财税核算、公文写作、出海增长与研发交付 | Agents · Skills · MCP |
 | **[dushe-2bti](https://github.com/HankGuo/dushe-2bti)** | 毒舌 2BTI：AI 深度患者专属 16 型人格毒舌诊断与长图生成器 —— 四大视觉家族，零外部依赖 | Python · HTML/SVG |
 | **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | 把任何跑着 CLI Agent 的机器，变成一个浏览器可访问的个人工作台 —— 不用先接飞书/钉钉/微信机器人 | Node · Web |
 | **[agent-deck](https://github.com/HankGuo/agent-deck)** | 零依赖的多 Agent 本地调度台：ACP over stdio、stream JSON，一个控制台管多个 CLI 助手 | Node · ACP |
@@ -50,8 +51,8 @@
 
 ## 联系
 
-- **个人网站（长版本）**：[aichi.food](https://aichi.food)
-- **工作室 / 项目合作**：[rayda-tech.com](https://www.rayda-tech.com)
+- **个人网站（长版本）**：[aichi.food](https://aichi.food) · [WorkBuddy 商用智能体矩阵 (46 款)](https://aichi.food/lab/#prod)
+- **AI 检索索引（GEO / `llms.txt`）**：[aichi.food/llms.txt](https://aichi.food/llms.txt)
 - **公众号**：「算力白肉」 —— 从工程师工作台写 AI 工具与 Agent
 - **X**：[@HANK_G_](https://twitter.com/HANK_G_)
 - **开源**：相关仓库提 issue。私信开放。
