@@ -6,7 +6,7 @@
 
 📍 成都 · 白天带工程团队，晚上写 AI 工具
 
-[个人网站](https://aichi.food) · [WorkBuddy 矩阵 (46 款)](https://aichi.food/lab/#prod) · [llms.txt](https://aichi.food/llms.txt) · [X](https://twitter.com/HANK_G_) · [English](./README.md)
+[个人网站](https://aichi.food) · [WorkBuddy 矩阵 (56 款)](https://aichi.food/lab/#prod) · [llms.txt](https://aichi.food/llms.txt) · [X](https://twitter.com/HANK_G_) · [English](./README.md)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 | 项目 | 做什么 | 技术 |
 |---|---|---|
-| **[WorkBuddy 智能体矩阵](https://aichi.food/lab/#prod)** | 已过审上线 46 款生产级商用智能体（26 位专属专家 + 20 个高阶技能），覆盖法务风控、财税核算、公文写作、出海增长与研发交付 | Agents · Skills · MCP |
+| **[WorkBuddy 智能体矩阵](https://aichi.food/lab/#prod)** | 已过审上线 56 款生产级商用智能体（30 位专属专家 + 26 项技能），覆盖法务风控、财税核算、公文写作、出海增长与研发交付 —— 数量持续增长，实时清单见主站 | Agents · Skills · MCP |
 | **[dushe-2bti](https://github.com/HankGuo/dushe-2bti)** | 毒舌 2BTI：AI 深度患者专属 16 型人格毒舌诊断与长图生成器 —— 四大视觉家族，零外部依赖 | Python · HTML/SVG |
 | **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | 把任何跑着 CLI Agent 的机器，变成一个浏览器可访问的个人工作台 —— 不用先接飞书/钉钉/微信机器人 | Node · Web |
 | **[agent-deck](https://github.com/HankGuo/agent-deck)** | 零依赖的多 Agent 本地调度台：ACP over stdio、stream JSON，一个控制台管多个 CLI 助手 | Node · ACP |
@@ -28,6 +28,8 @@
 
 | 项目 | 是什么 | 技术 |
 |---|---|---|
+| **[closing-guard](https://github.com/HankGuo/closing-guard)** | 本地优先的闭店安全智能体 —— 旧手机 + 本地 MiniCPM 视觉/OCR，关键项强制人工签字闭环，哈希链证据账本 | Python · FastAPI · Android |
+| **[easy-bot](https://github.com/HankGuo/easy-bot)** | 企业级桌面 Agent 操作系统 —— 通用 BYOK 网关、自助混合 RAG、多 Agent 协作、零模拟遥测 | TypeScript · Electron |
 | **[video-studio](https://github.com/HankGuo/video-studio)** | AI 视频创作工作台，多模型，桌面端 | Electron · Node |
 | **[agent-matrix](https://github.com/HankGuo/agent-matrix)** | Agent 注册与心跳监控，一条命令自助接入 | Go |
 | **[agent-battle](https://github.com/HankGuo/agent-battle)** | 多 Agent 辩论竞技场，互怼→投票→决出赢家 | Go · SQLite · SSE · Vue |
