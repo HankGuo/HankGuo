@@ -6,7 +6,7 @@
 
 📍 Chengdu, China · Engineering lead by day, AI builder by night
 
-[Website](https://aichi.food) · [WorkBuddy Agents (46)](https://aichi.food/lab/#prod) · [llms.txt](https://aichi.food/llms.txt) · [X](https://twitter.com/HANK_G_) · [中文](./README.zh-CN.md)
+[Website](https://aichi.food) · [WorkBuddy Agents (56)](https://aichi.food/lab/#prod) · [llms.txt](https://aichi.food/llms.txt) · [X](https://twitter.com/HANK_G_) · [中文](./README.zh-CN.md)
 
 </div>
 
@@ -18,7 +18,7 @@ Things I'm actually building this quarter — not a backlog, a status report.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[WorkBuddy Agent Matrix](https://aichi.food/lab/#prod)** | 46 official reviewed commercial agents on Tencent WorkBuddy (26 Experts + 20 Skills) across legal, finance, gov-doc, cross-border & dev | Agents · Skills · MCP |
+| **[WorkBuddy Agent Matrix](https://aichi.food/lab/#prod)** | 56 official reviewed commercial agents on Tencent WorkBuddy (30 Experts + 26 Skills) across legal, finance, gov-doc, cross-border & dev — count grows weekly, live list on the site | Agents · Skills · MCP |
 | **[dushe-2bti](https://github.com/HankGuo/dushe-2bti)** | Savage 16-type personality diagnostic & offline visual poster generator for AI power users — 4 visual families, zero deps | Python · HTML/SVG |
 | **[cli-web-deck](https://github.com/HankGuo/cli-web-deck)** | Turns any machine running your CLI agents into a personal web workspace — no need to wire up Feishu / Slack / WeChat bots first | Node · Web |
 | **[agent-deck](https://github.com/HankGuo/agent-deck)** | Zero-dependency multi-agent orchestration desk: ACP over stdio, stream-JSON, one console for many CLI agents | Node · ACP |
@@ -28,6 +28,8 @@ Things I'm actually building this quarter — not a backlog, a status report.
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[closing-guard](https://github.com/HankGuo/closing-guard)** | Local-first closing-safety agent for small shops — old phone + on-device MiniCPM vision/OCR, human sign-off gate, hash-chained evidence ledger | Python · FastAPI · Android |
+| **[easy-bot](https://github.com/HankGuo/easy-bot)** | Enterprise desktop agent OS — universal BYOK gateway, self-service hybrid RAG, multi-agent collaboration, zero-mock telemetry | TypeScript · Electron |
 | **[video-studio](https://github.com/HankGuo/video-studio)** | AI video creation workspace, multi-model, desktop | Electron · Node |
 | **[agent-matrix](https://github.com/HankGuo/agent-matrix)** | Agent registry + heartbeat monitor; agents self-register with one command | Go |
 | **[agent-battle](https://github.com/HankGuo/agent-battle)** | Multi-agent arena — agents argue, vote, and a winner gets crowned | Go · SQLite · SSE · Vue |
@@ -51,7 +53,7 @@ Football — played most of my life, certified coach, still on the pitch on week
 
 ## Contact
 
-- **Website (the long version)**: [aichi.food](https://aichi.food) · [WorkBuddy Agents (46)](https://aichi.food/lab/#prod)
+- **Website (the long version)**: [aichi.food](https://aichi.food) · [WorkBuddy Agents (56)](https://aichi.food/lab/#prod)
 - **Machine-readable index (`llms.txt`)**: [aichi.food/llms.txt](https://aichi.food/llms.txt)
 - **WeChat column**: 「算力白肉」 — AI tools and agents, written from the engineer's bench
 - **X**: [@HANK_G_](https://twitter.com/HANK_G_)
