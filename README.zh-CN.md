@@ -53,7 +53,7 @@
 
 ## 联系
 
-- **个人网站（长版本）**：[aichi.food](https://aichi.food) · [WorkBuddy 商用智能体矩阵 (46 款)](https://aichi.food/lab/#prod)
+- **个人网站（长版本）**：[aichi.food](https://aichi.food) · [WorkBuddy 商用智能体矩阵 (56 款)](https://aichi.food/lab/#prod)
 - **AI 检索索引（GEO / `llms.txt`）**：[aichi.food/llms.txt](https://aichi.food/llms.txt)
 - **公众号**：「算力白肉」 —— 从工程师工作台写 AI 工具与 Agent
 - **X**：[@HANK_G_](https://twitter.com/HANK_G_)
